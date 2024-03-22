@@ -14,7 +14,9 @@
     "@material-ui/lab": "^4.0.0-alpha.60",
     "@material-ui/pickers": "^3.3.10",
     "@mui/icons-material": "^5.11.16",
-    "@mui/material": "^5.9.1"
+    "@mui/material": "^5.9.1",
+    "uuid": "^9.0.1",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
@@ -28,5 +30,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
